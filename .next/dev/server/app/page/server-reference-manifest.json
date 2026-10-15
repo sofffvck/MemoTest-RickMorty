@@ -1,0 +1,15 @@
+{
+  "node": {
+    "0013e4731b4ae6a59471b7db560922030012e5581c": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/my-app/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/my-app/src/app/actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "exportedName": "obtenerCartasRickAndMorty",
+      "filename": "my-app/src/app/actions.js"
+    }
+  },
+  "edge": {}
+}
